@@ -1,0 +1,5 @@
+export default IconEdit = `<svg width="41" height="41" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.90625" width="40" height="40" rx="20" fill="#ECEDEE"/>
+<path d="M20.5 26.2396H26.5" stroke="#626262" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.5 15.2396C23.7652 14.9744 24.1249 14.8254 24.5 14.8254C24.6857 14.8254 24.8696 14.862 25.0412 14.933C25.2128 15.0041 25.3687 15.1083 25.5 15.2396C25.6313 15.3709 25.7355 15.5268 25.8066 15.6984C25.8776 15.87 25.9142 16.0539 25.9142 16.2396C25.9142 16.4253 25.8776 16.6092 25.8066 16.7808C25.7355 16.9524 25.6313 17.1083 25.5 17.2396L17.1667 25.5729L14.5 26.2396L15.1667 23.5729L23.5 15.2396Z" stroke="#626262" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>`
